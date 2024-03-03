@@ -1,0 +1,18 @@
+{
+  "name": "case1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yarullin Aidar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "superagent": "^8.1.2"
+  }
+}
